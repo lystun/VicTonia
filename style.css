@@ -507,14 +507,14 @@ nav.navbar >.container{
     }
     
     .give {
-        margin-top: 3rem; 
+        margin-top: 4rem; 
     }
 
     .give .btn {
         background: #db4766;
         color: #fff;
-        padding: 1.5rem 3rem;
-        font-size: 2rem;
+        padding: 2rem 3rem;
+        font-size: 1.5rem;
     }
 
     .love_story_details{
@@ -1741,7 +1741,7 @@ text-align:center;
 font-size:57px;
 font-weight:300;
 margin-top:0;
-	}
+}
 .form_wrapper p.section-subheading{
 margin-bottom:40px;
 }
