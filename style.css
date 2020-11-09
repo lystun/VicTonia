@@ -126,7 +126,7 @@ border-color : #010e28;
 background : #010e28;
 }
 .navbar-default .navbar-toggle {
-border:2px solid #ddb5b4;
+border:2px solid #db4766;
 background-color : #010e28;
 transition : all 0.25s ease;
 }
@@ -504,8 +504,20 @@ nav.navbar >.container{
 	padding-top:51px;
 	padding-bottom:66px;
 	background:#F7F4F4;
-	}
-.love_story_details{
+    }
+    
+    .give {
+        margin-top: 3rem; 
+    }
+
+    .give .btn {
+        background: #db4766;
+        color: #fff;
+        padding: 1.5rem 3rem;
+        font-size: 2rem;
+    }
+
+    .love_story_details{
 	
 	}
 .love_story_details h3{
@@ -1674,13 +1686,15 @@ border-radius : 5px;
 
 .rsvp_make .btn {
     padding: 2rem 3rem;
-    background: #010e28;
+    background: #db4766;
+    /* background: #010e28; */
     color: #fff;
     font-size: 1.5rem;
     margin-bottom: 1.5rem;
 }
 .rsvp_make .btn:hover {
-    background: #daaba3;
+    /* background: #daaba3; */
+    background: #010e28;
 }
 
 @media screen and (max-width: 768px){
@@ -2817,7 +2831,7 @@ margin-left:0px;
 	bottom: 105px;
 	width: 40px;
 	height: 40px;
-	background: #010e28;
+	background: #db4766;
 	color: #fff;
 	font-weight: bold;
 	border-radius: 4px;
@@ -2833,7 +2847,7 @@ margin-left:0px;
 	border-radius: 0px;
 	}
 #toTop:hover{
-	background: #daaba3;
+	background: #010e28;
 	
 	}
 #toTop a{
